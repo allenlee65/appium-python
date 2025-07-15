@@ -29,6 +29,5 @@
 
 `$ python test.py`
 
-The Android Settings page shown up and then scroll down to click the Battery section.
-
-<video controls src="Screencast From 2025-07-15 20-44-45.webm" title="Title"></video>
+The Android Settings page shown up and then scroll down to click the Battery section.   
+<video src="https://github.com/user-attachments/assets/fc0016d8-66a6-440c-9054-87764ee24f03" width="352" height="720"></video>
