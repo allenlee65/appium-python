@@ -19,11 +19,11 @@
 
 #### Start Android Vitual Device
 
-`$ adb start-server`
-`$ emulator -list-avds`
-  output result: edium_Phone_API_36.0 (avd name) 
+`$ adb start-server`   
+`$ emulator -list-avds`   
+  output result: Medium_Phone_API_36.0 (avd name)   
 
-`$ emulator -avd edium_Phone_API_36.0`
+`$ emulator -avd Medium_Phone_API_36.0`
 
 #### Run test.py
 
