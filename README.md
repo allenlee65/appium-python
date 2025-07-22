@@ -19,9 +19,9 @@
 
 #### Start Android Vitual Device
 
-`$ adb start-server`   
-`$ emulator -list-avds`   
-  output result: Medium_Phone_API_36.0 (avd name)   
+`$ adb start-server`
+`$ emulator -list-avds`
+  output result: Medium_Phone_API_36.0 (avd name)
 
 `$ emulator -avd Medium_Phone_API_36.0`
 
