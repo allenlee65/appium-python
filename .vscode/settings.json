@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "terminal.integrated.splitCwd": "initial",
+    "terminal.integrated.suggest.windowsExecutableExtensions": {},
+    "zenMode.showTabs": "none"
+}
