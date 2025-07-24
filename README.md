@@ -31,3 +31,14 @@
 
 The Android Settings page shown up and then scroll down to click the Battery section.   
 <video src="https://github.com/user-attachments/assets/fc0016d8-66a6-440c-9054-87764ee24f03" width="352" height="720"></video>
+
+
+#### Run test_calculator.py
+
+- terminal 1
+  `$ appium`
+- terminal 2
+  `$ adb start-server`
+  `$ emulator -avd Medium_Phone_API_36.0`
+- terminal 3
+  `$ python test_calculator.py`
