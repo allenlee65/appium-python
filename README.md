@@ -29,8 +29,12 @@
 
 `$ python test.py`
 
-The Android Settings page shown up and then scroll down to click the Battery section.   
-<video src="https://github.com/user-attachments/assets/fc0016d8-66a6-440c-9054-87764ee24f03" width="352" height="720"></video>
+The Android app Calculator automation testing demo:  
+
+
+https://github.com/user-attachments/assets/9c90afad-9bc9-4220-b9e6-910d52ebb67a
+
+
 
 
 #### Run test_calculator.py
